@@ -3,6 +3,9 @@ VENDOR_PATH := vendor/tg
 # Our own overlay
 DEVICE_PACKAGE_OVERLAYS += $(VENDOR_PATH)/overlay
 
+PRODUCT_PACKAGES += \
+	Camera
+
 PRODUCT_COPY_FILES += \
 	$(VENDOR_PATH)/prebuilt/media/bootanimation.zip:system/media/bootanimation.zip \
 	$(VENDOR_PATH)/prebuilt/etc/apns-conf.xml:system/etc/apns-conf.xml \
