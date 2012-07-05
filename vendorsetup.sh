@@ -1,0 +1,3 @@
+add_lunch_combo tgascoigne_endeavoru-eng
+add_lunch_combo tgascoigne_endeavoru-userdebug
+add_lunch_combo tgascoigne_endeavoru-user
