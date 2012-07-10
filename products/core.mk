@@ -7,7 +7,7 @@ PRODUCT_PACKAGES += \
 	Camera
 
 PRODUCT_COPY_FILES += \
-	$(VENDOR_PATH)/prebuilt/etc/bootanimation.zip:system/etc/bootanimation.zip \
+	$(VENDOR_PATH)/prebuilt/media/bootanimation.zip:system/media/bootanimation.zip \
 	$(VENDOR_PATH)/prebuilt/etc/apns-conf.xml:system/etc/apns-conf.xml \
 	$(VENDOR_PATH)/prebuilt/etc/apns-conf-cdma.xml:system/etc/apns-conf-cdma.xml \
 	$(VENDOR_PATH)/prebuilt/etc/spn-conf.xml:system/etc/spn-conf.xml
