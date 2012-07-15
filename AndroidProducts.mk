@@ -25,4 +25,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/products/tg_endeavoru.mk
+	$(LOCAL_DIR)/products/aokp_endeavoru.mk

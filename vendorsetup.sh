@@ -1,3 +1,3 @@
-add_lunch_combo tg_endeavoru-eng
-add_lunch_combo tg_endeavoru-userdebug
-add_lunch_combo tg_endeavoru-user
+add_lunch_combo aokp_endeavoru-eng
+add_lunch_combo aokp_endeavoru-userdebug
+add_lunch_combo aokp_endeavoru-user
