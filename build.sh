@@ -1,11 +1,11 @@
 export USE_CCACHE=1
 export CCACHE_DIR=/$HOME/.ccache
-prebuilt/linux-x86/ccache/ccache -M 40G
+prebuilts/misc/linux-x86/ccache/ccache -M 40G
 source build/envsetup.sh
 lunch aokp_endeavoru-userdebug
 export USE_CCACHE=1
 export CCACHE_DIR=/$HOME/.ccache
-prebuilt/linux-x86/ccache/ccache -M 40G
+prebuilts/misc/linux-x86/ccache/ccache -M 40G
 make -j6 bacon
 
 

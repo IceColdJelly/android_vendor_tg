@@ -2,4 +2,4 @@
 $(call inherit-product, vendor/tg/products/core.mk)
 $(call inherit-product, device/htc/endeavoru/full_endeavoru.mk)
 
-PRODUCT_NAME := tg_endeavoru
+PRODUCT_NAME := aokp_endeavoru
