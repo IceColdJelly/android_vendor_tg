@@ -6,7 +6,8 @@ DEVICE_PACKAGE_OVERLAYS += $(VENDOR_PATH)/overlay
 PRODUCT_PACKAGES += \
 	Camera \
 	Superuser \
-	su
+	su \
+        ROMControl
 
 PRODUCT_COPY_FILES += \
 	$(VENDOR_PATH)/prebuilt/media/bootanimation.zip:system/media/bootanimation.zip \
